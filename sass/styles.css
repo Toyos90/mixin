@@ -1,0 +1,31 @@
+main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  color: darkorchid;
+}
+main #section-two {
+  color: green;
+}
+
+body {
+  background-color: burlywood;
+}
+body header {
+  color: crimson;
+  width: 100%;
+}
+body header h1 {
+  font-style: italic;
+  text-align: center;
+}
+
+/*# sourceMappingURL=styles.css.map */
+.card-user {
+  border-radius: 4px;
+  padding: 4px;
+  font-size: 16px;
+  width: 300px;
+  height: 200px;
+  background-color: aqua;
+}/*# sourceMappingURL=styles.css.map */
